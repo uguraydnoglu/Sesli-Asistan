@@ -1,2 +1,2 @@
 # Sesli-Asistan
-Sesli Asistan Açıklama
+Sesli Asistan 
